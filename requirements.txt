@@ -1,0 +1,5 @@
+discord.js
+ytdl-core
+system-sleep
+ffmpeg
+readline-sync
